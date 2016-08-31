@@ -95,7 +95,7 @@
 
 ---
 
-![inline fit](img/iOS-love.png)
+![inline](img/iOS-love.png)
 
 ---
 
@@ -103,11 +103,15 @@
 
 ---
 
-![inline fit](img/axiomzen.png)
+![inline](img/axiomzen.png)
 
 ---
 
 ![fit](img/reo.png)
+
+---
+
+![fit](img/estados-unidos-inmigrantes-mundo-latino.jpg)
 
 ---
 
@@ -146,7 +150,7 @@
 
 ---
 
-![](img/gran-capital.jpg)
+![inline](img/gran-capital.jpg)
 
 ---
 
@@ -194,14 +198,20 @@
 
 ---
 
-# Whiteboard coding vs Whiteboard
+# "Whiteboard coding"
+
+---
 
 ![inline fit](img/serious-business.png)
 
 ---
 
-![](img/51ibkhoIdBL._AC_UL320_SR254,320_.jpg)
-![](img/9780984782857.jpg)
+![inline](img/51ibkhoIdBL._AC_UL320_SR254,320_.jpg)
+
+
+---
+
+![inline](img/9780984782857.jpg)
 
 ---
 
@@ -223,8 +233,8 @@
 
 ---
 
-## Conversa. 
-## No interrogues.
+## Conversa
+## No interrogues
 
 ---
 
@@ -252,7 +262,7 @@
 
 ---
 
-## ¿Cómo ganar 
+## ¿Cómo gané 
 # dinero
 ## jugando poker?
 
@@ -335,6 +345,10 @@
 
 ---
 
+# PokerPoquer cerro
+
+---
+
 # ¿Por qué 
 ## seguí 
 # [fit] desarrollando software?
@@ -347,17 +361,31 @@
 
 ---
 
-# Equipos vs Proyectos
-
----
-
 # Aprendizaje Continuo
 
 ---
 
-# Comunicación 
-## y 
-# Colaboración
+# Encontré una comunidad
+
+---
+
+# Equipos vs Proyectos
+
+---
+
+# Equipos pequeños
+
+---
+
+# Grupos de Estudio
+
+---
+
+# Code Reviews
+
+---
+
+# Compartir conocimiento
 
 ---
 
@@ -365,7 +393,39 @@
 
 ---
 
+# ¿5 horas de diferencia?
+
+---
+
+# Ya tenemos horas de diferencia
+
+---
+
 # Asíncrono
+
+---
+
+# Eliminar el email
+
+---
+
+# Slack
+
+---
+
+# Pull Requests
+
+---
+
+# Code reviews
+
+---
+
+# ZenHub
+
+---
+
+# ¿Qué es urgente?
 
 ---
 
