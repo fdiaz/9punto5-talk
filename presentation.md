@@ -1,11 +1,11 @@
-# ¿De qué hablo 
+# ¿De **qué** hablo 
 ## cuando hablo de 
-#[fit] trabajo remoto?
+#[fit] **trabajo remoto**?
 
 --- 
 
 ## ¿Qué es 
-#[fit] trabajo remoto?
+#[fit] **trabajo remoto**?
 
 --- 
 
@@ -17,13 +17,13 @@
 
 ---
 
-> _Trabajo_ que se realiza desde un lugar fuera de la empresa utilizando las redes de telecomunicación para cumplir con las cargas laborales asignadas.
+> _Trabajo_ que se realiza desde un lugar fuera de la empresa utilizando las redes de telecomunicación.
 -- RAE
 
 ---
 
 ## ¿Qué es 
-# trabajo?
+# **trabajo**?
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 ## ¿Qué es 
-# trabajar?
+# **trabajar**?
 
 ---
 
@@ -90,7 +90,7 @@
  
 ---
 
-## ~~Unico~~ más grande 
+## ~~Único~~ Más grande 
 # de Chile
 
 ---
@@ -127,7 +127,7 @@
 
 ---
 
-> Díaz cuenta que aprendió a jugar póker hace cuatro años, cuando un amigo le mostró el _portal internet_ www.pokerpoquer.com
+> Díaz cuenta que aprendió a jugar póker, cuando un amigo le mostró el _portal internet_ pokerpoquer
 -- Diario Austral
 
 ---
@@ -177,6 +177,10 @@
 
 ---
 
+# UACh
+
+---
+
 ![inline fit](img/xcode.png)
 
 ---
@@ -221,28 +225,12 @@
 
 ---
 
-![inline fit](img/bigfourlogos.jpg)
+## Interesate por la persona que estas entrevistando
 
 ---
 
-## Conoce a la persona que estás entrevistando.
-
----
-
-## Interésate por la persona que estás entrevistando
-
----
-
-## Conversa
+# Conversa
 ## No interrogues
-
----
-
-## Contexto
-
----
-
-## No humillen
 
 ---
 
@@ -262,7 +250,7 @@
 
 ---
 
-## ¿Cómo gané 
+## ¿Cómo gané
 # dinero
 ## jugando poker?
 
@@ -292,11 +280,7 @@
 
 ---
 
-# Prueba y error
-
----
-
-![fit](img/i-am-the-best-in-the-world.67810d7c4ca3443d9141f9af2e618092.png)
+![fill](img/Titanic.png)
 
 ---
 
@@ -308,16 +292,30 @@
 
 ---
 
-![fit](img/8c4ad75202eb9e8ff7a7566ef954c797.f138444ffc2e416892d1fe777010e7ac.jpg)
+# Remoto
 
 ---
 
-# Sindrome del 
+# Síndrome del 
 ## impostor
 
 ---
 
+![fit](img/8c4ad75202eb9e8ff7a7566ef954c797.f138444ffc2e416892d1fe777010e7ac.jpg)
+
+---
+
 # Deja el ego fuera
+
+---
+
+## Lo importante 
+# **no es** la meta
+
+---
+
+## Lo importante es 
+# **aprender**
 
 ---
 
@@ -328,29 +326,29 @@
 > Un libro es más de lo que un programador promedio lee en un año
 -- DeMarco and Lister, Peopleware
 
-
 ---
 
 # Busca un mentor
 
 ---
 
-# Comparte
+![inline](img/share.png)
 
 ---
 
-# ¿Por qué 
-## no seguí 
+# ¿Por qué
+## no seguí
 # [fit] jugando poker?
 
 ---
 
-# PokerPoquer cerro
+# PokerPoquer 
+## cerró
 
 ---
 
 # ¿Por qué 
-## seguí 
+## seguí
 # [fit] desarrollando software?
 
 ---
@@ -369,11 +367,17 @@
 
 ---
 
-# Equipos vs Proyectos
+## ¿Cómo construir 
+# **comunidad**?
 
 ---
 
-# Equipos pequeños
+# **Equipos** vs Proyectos
+
+---
+
+# Equipos 
+### pequeños
 
 ---
 
@@ -397,7 +401,9 @@
 
 ---
 
-# Ya tenemos horas de diferencia
+## Ya tenemos 
+# horas
+## de diferencia
 
 ---
 
@@ -405,7 +411,7 @@
 
 ---
 
-# Eliminar el email
+![inline fit](img/email.jpg)
 
 ---
 
@@ -417,32 +423,36 @@
 
 ---
 
-# Code reviews
-
----
-
 # ZenHub
 
 ---
 
-# ¿Qué es urgente?
+# ¿Y lo urgente?
 
 ---
 
-# ¿De qué hablo 
+![inline fit](img/urgent.jpg)
+
+---
+
+# Calidad
+
+---
+
+# ¿De **qué** hablo 
 ## cuando hablo de 
-#[fit] trabajo remoto?
+#[fit] **trabajo remoto**?
 
 ---
 
-# 1. Crecimiento
+# **1. Crecimiento**
 
 ---
 
-# 2. Comunidad
+# **2. Comunidad**
 
 ---
 
-# ¡Gracias! 👏
+# ¡Gracias! 🍻
 
 ### github.com/fdiaz/9punto5-talk
